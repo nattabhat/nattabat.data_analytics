@@ -1,5 +1,6 @@
 This is a group coursework that I did with my classmates during Masters's Degree. It is about HR data analysis.
-The coursework' problems are:
+The coursework include data cleansing, data analysis & visualization. All of them were done in R. After that, we
+extracted useful insights and put them in Tableau Dashboard. I was in charge of Question1.
 
 Dr Hill has been moaned at by the CEO for his group’s relatively poor productivity and employee satisfaction over the past couple of years. He has always thought his 
 staff took too many days off sick and that staff turnover was too high. He is now looking to your team to identify potential causes of poor productivity and 
