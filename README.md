@@ -1,4 +1,4 @@
-This is a coursework that I did during Masters's Degree. It is about HR data analysis.
+This is a group coursework that I did with my classmates during Masters's Degree. It is about HR data analysis.
 The coursework' problems are:
 
 Dr Hill has been moaned at by the CEO for his group’s relatively poor productivity and employee satisfaction over the past couple of years. He has always thought his 
